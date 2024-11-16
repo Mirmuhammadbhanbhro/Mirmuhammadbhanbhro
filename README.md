@@ -9,7 +9,10 @@ Mirmuhammadbhanbhro/Mirmuhammadbhanbhro is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 My experience In :
-.html5
-.Css3
+.HTML
+.Css
 .javascript
 .Bootstrap
+.Typescript
+.Nextjs
+.Python
